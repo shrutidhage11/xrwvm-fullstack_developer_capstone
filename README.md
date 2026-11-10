@@ -1,74 +1,24 @@
-\# Cars Dealership – Full Stack Development Capstone
+# Cars Dealership � Full Stack Development Capstone
 
+## Repository Name
+xrwvm-fullstack_developer_capstone
 
+## Project Name
+Cars Dealership � Full Stack Development Capstone
 
-\## Project Overview
+## Project Description
+A responsive full-stack web application for viewing car dealerships, registering users, logging in, and submitting dealership reviews.
 
-A responsive full-stack web application developed for Cars Dealership, a national car retailer in the United States.
+## Technologies
+- Python
+- Django
+- React
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- SQLite
+- Git and GitHub
 
-
-
-\## Technologies Used
-
-\- Python
-
-\- Django
-
-\- React
-
-\- JavaScript
-
-\- HTML5
-
-\- CSS3
-
-\- Bootstrap
-
-\- SQLite
-
-\- Git and GitHub
-
-
-
-\## Features
-
-\- View dealership branches.
-
-\- Filter dealerships by state.
-
-\- User registration and login.
-
-\- View dealership details.
-
-\- Submit and view dealership reviews.
-
-\- Sentiment analysis of customer reviews.
-
-\- Responsive user interface.
-
-
-
-\## Project Structure
-
-\- `server/djangoapp` – Django application.
-
-\- `server/djangoproj` – Django project configuration.
-
-\- `server/frontend` – React frontend and static pages.
-
-\- `server/database` – Database resources.
-
-
-
-\## Developer
-
+## Developer
 Shruti Dhage
-
-
-
-\## Project
-
-Full-Stack Development Capstone – Cars Dealership
-
-
-
